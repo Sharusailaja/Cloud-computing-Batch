@@ -1,4 +1,4 @@
-Lab 3: Introduction to Amazon EC2
+<img width="1454" height="720" alt="Gemini_Generated_Image_h946ekh946ekh946" src="https://github.com/user-attachments/assets/484dc3c8-baa6-417d-b040-9c69728d8abe" />Lab 3: Introduction to Amazon EC2
 Lab overview and objectives
 https://media/image.png
 
@@ -412,3 +412,14 @@ Amazon EC2 Service Limits
 Terminate Your Instance
 
 Termination Protection for an Instance
+## OUTPUT
+<img width="1454" height="720" alt="Gemini_Generated_Image_h946ekh946ekh946" src="https://github.com/user-attachments/assets/692d1dd6-dfd8-4cbd-848b-8886495e5df6" />
+<img width="1919" height="927" alt="46hhOuDrne" src="https://github.com/user-attachments/assets/45027163-f9fc-4901-8004-9dd603892c41" />
+<img width="1919" height="967" alt="lab-3-op-3" src="https://github.com/user-attachments/assets/271b324c-e4bc-4991-9ec4-dfd6b155a1f6" />
+<img width="1919" height="969" alt="CqKJy9hpip" src="https://github.com/user-attachments/assets/47635a65-fbce-45be-9409-a765fa291fc4" />
+<img width="1919" height="958" alt="Ec6yKGHc69" src="https://github.com/user-attachments/assets/baca97d5-0bc3-4233-850e-951a145865f4" />
+
+
+
+
+
