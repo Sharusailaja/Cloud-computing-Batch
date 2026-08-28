@@ -1,4 +1,4 @@
-<img width="1454" height="720" alt="Gemini_Generated_Image_h946ekh946ekh946" src="https://github.com/user-attachments/assets/484dc3c8-baa6-417d-b040-9c69728d8abe" />Lab 3: Introduction to Amazon EC2
+Lab 3: Introduction to Amazon EC2
 Lab overview and objectives
 https://media/image.png
 
